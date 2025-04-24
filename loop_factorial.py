@@ -8,4 +8,4 @@ def fact(num):
     return factorial
 
 
-print(fact(0))
+print(fact(5)) # prints 120
