@@ -3,7 +3,9 @@ def fact(num):
     factorial = 1
     # loop starts at 1,2,3...num. it stops right before num+1 which is at num
     for i in range(1, num + 1):
-        # shorthand for writing factorial = factorial * i which is the loop counter
+       """ shorthand for writing factorial = factorial * i which is basically multiplying factorial by the value of i in the
+       current iteration
+       """        
         factorial *= i
     return factorial
 
