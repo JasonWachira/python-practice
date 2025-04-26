@@ -1,5 +1,4 @@
 def fact(num):
-
     if num < 0:
         return "Cannot compute factorial of negative numbers"
     # initialises the factorial variable that stores the factorial on each iteration
@@ -11,4 +10,4 @@ def fact(num):
     return factorial
 
 
-print(fact(5)) # prints 120
+print(fact(5))  # prints 120, the factorial of 5
