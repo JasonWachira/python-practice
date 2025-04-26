@@ -1,5 +1,9 @@
 def fact(num):
-    # Checks if a negative number has been passed
+<<<<<<< HEAD
+    # Checks if a negative number has been passed and returns an error message
+=======
+    # Checks if a negative number has been passed and returns an error message
+>>>>>>> 4913c294d6f4e5857042482ffd8b1852feb7397a
     if num < 0:
         return "Cannot compute factorial of negative numbers"
     # initialises the factorial variable that stores the factorial on each iteration
