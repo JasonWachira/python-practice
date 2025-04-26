@@ -13,4 +13,4 @@ def factorial(num):
 
 print(factorial(5))  # prints 120
 
-print(factorial(-1)) # prints out 'Cannot compute factorial of negative numbers
+print(factorial(-1)) # prints out 'Cannot compute factorial of negative numbers'
